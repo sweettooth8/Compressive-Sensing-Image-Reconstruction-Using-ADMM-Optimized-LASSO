@@ -1,4 +1,4 @@
-4. # Compressive Sensing Image Reconstruction Using ADMM Optimized LASSO
+# Compressive Sensing Image Reconstruction Using ADMM Optimized LASSO
    This is the final project of SUSTech's Postgraduate Machine Learning Spring 2025. You can find the course's information at https://fangkongx.github.io/Teaching/MAT8034/Spring2025/index.html. 
    
    For detailed information about the project, see the pdf included in the respository:  `Slides.pdf`.
