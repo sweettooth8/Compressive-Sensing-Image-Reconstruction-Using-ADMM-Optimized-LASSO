@@ -229,7 +229,7 @@ def make_T(device, n=8, dtype=torch.float64):
 class ImageRecover():
     def __init__(
         self,
-        img_path='data/nature.bmp',
+        img_path='Image/nature.bmp',
         block_size=8, 
         S_values=np.array([50]),
         alpha_val_list=np.logspace(-7, 7, num=50),
